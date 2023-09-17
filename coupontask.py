@@ -1,5 +1,4 @@
 from matplotlib import pyplot as plt
-import plotly.figure_factory as ff
 import pandas as pd
 import json
 import math
